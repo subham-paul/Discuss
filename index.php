@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-   <title>Discuss Project</title>
+   <title>Discuss Website</title>
    <?php include('./client/commonFiles.php') ?>
 </head>
 
